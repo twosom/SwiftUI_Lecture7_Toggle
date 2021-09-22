@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5CCE9500F4DAF8CD061EBB64"
+               BuildableName = "SwiftUI_Lecture7_Toggle.app"
+               BlueprintName = "SwiftUI_Lecture7_Toggle"
+               ReferencedContainer = "container:SwiftUI_Lecture7_Toggle.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5CCE9500F4DAF8CD061EBB64"
+            BuildableName = "SwiftUI_Lecture7_Toggle.app"
+            BlueprintName = "SwiftUI_Lecture7_Toggle"
+            ReferencedContainer = "container:SwiftUI_Lecture7_Toggle.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
